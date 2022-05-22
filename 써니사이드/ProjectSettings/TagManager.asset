@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  - Gem
+  - iceground
+  - normalground
+  - thorn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - IceGround
+  - Ladder
+  - ThornGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 189032785
+    locked: 0
+  - name: Middle
+    uniqueID: 1601957789
+    locked: 0
+  - name: Player
+    uniqueID: 4057359679
+    locked: 0
+  - name: tile
+    uniqueID: 2218527143
+    locked: 0
+  - name: thorn
+    uniqueID: 270629693
+    locked: 0
